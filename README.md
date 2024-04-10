@@ -1,0 +1,2 @@
+# VueGoodTableSandbox
+Created with CodeSandbox
